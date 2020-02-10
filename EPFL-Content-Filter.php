@@ -5,7 +5,7 @@
  * Description: Removes the unfiltered_html and unfiltered_upload capabilities to administrator and editor roles
  * Author: Emmanuel Jaep
  * Author URI: hhttps://people.epfl.ch/emmanuel.jaep?lang=en
- * Version: 0.1.0
+ * Version: 1.1
  * License: Copyright (c) 2018 Ecole Polytechnique Federale de Lausanne, Switzerland
  */
 
